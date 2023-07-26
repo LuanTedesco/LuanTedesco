@@ -13,18 +13,13 @@ Eu sou Luan Tedesco, um entusiasta da programação.
 ## Habilidades :nerd_face:
 
 <p align="center">
-  <img align="center" alt="python" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="html5" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="java" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="ruby" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="rails" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="git" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</p>
-
-## Visualizações do Perfil :detective: <br>
-<p align="center"> 
-    <img align="center" src="https://profile-counter.glitch.me/LuanTedesco/count.svg" />
 </p>
 
 - 🌱 Atualmente, estou em constante aprendizado.
