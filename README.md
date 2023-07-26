@@ -1,5 +1,3 @@
-<img src="https://github.com/LuanTedesco/LuanTedesco/blob/main/readme-images/programer.png" align="right"/>
-
 # Olá, mundo! 👋
 
 Eu sou Luan Tedesco, um entusiasta da programação.
